@@ -1,0 +1,24 @@
+#header {
+  background-color: #313131;
+  height: 100vh;
+  font-family: "Open Sans", Sans-serif;
+  text-decoration: none;
+  padding-top: 150px;
+  background-image: url("C:/Projects/My Portfolio 2020 BS4/images/hero image.png");
+  /*background-size: cover;*/
+  background-repeat: no-repeat;
+  background-position: 53vw 50%;
+  height: calc(100vh - 70px);
+}
+.header-list {
+  width: 40%;
+  background-color: yellow;
+  border: none;
+  padding: 10px 0;
+}
+.header-list a {
+  text-decoration: none;
+}
+.navbar-brand {
+
+}
